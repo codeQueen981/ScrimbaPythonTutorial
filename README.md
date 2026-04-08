@@ -21,7 +21,7 @@
 
 #Lesson 7: Arcade Day Pass Challenge
 # Apply basic concepts in a simple challenge
-
+    
 #Lesson 8: User Input
 # Getting input from the user
 
