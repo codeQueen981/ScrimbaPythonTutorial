@@ -2,6 +2,11 @@
 # Variables - a named container used to store data that can be used and changed in a program.
 # A variable is like a box with a label:
 # How can a VARIABLE be WRITTEN: hello_world (underscores) & helloWorld (Big letters)
+# when using words like (It's) here is a guide to avoid errors
+"""
+a="it's"  (double-quouting) 
+b='it\'s'  (slash)
+"""
 
 failed_subjects="2"
 name='John'
