@@ -1,4 +1,4 @@
-#For this lesson, we will be tackling the PRINT STATEMENT.
+#For this lesson, we will be tackling the PRINT STATEMENT & PROGRAM FLOW.
 print('Welcome to Python 101!2')
 print('Welcome to Python 101!')
 
