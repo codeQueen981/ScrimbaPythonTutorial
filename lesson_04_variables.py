@@ -1,6 +1,7 @@
 #Lesson 4: Variables
 # Variables - a named container used to store data that can be used and changed in a program.
 # A variable is like a box with a label:
+# How cam a VARIABLE be WRITTEN: hello_world (underscores) & helloWorld (Big letters)
 
 failed_subjects="2"
 name='John'
