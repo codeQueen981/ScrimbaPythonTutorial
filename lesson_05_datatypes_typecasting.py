@@ -11,7 +11,7 @@ Decimal numbers
 y = 3.14
 
 3. String (str)
-Text (inside quotes)
+Text (inside 2 quoutation marks " or ')
 name = "John"
 
 4. Boolean (bool)
@@ -23,6 +23,13 @@ Collection of values
 nums = [1, 2, 3]
 
 """
+# Classify these types of statements:
+
+# print(type('hello'))  = STRING
+# print(type(1))        = INTEGER
+# print(type(1.64))     = FLOAT
+# print(type(True))     = BOOLEAN
+
 #Check Data Type: print(type(x))
   # Typecasting - Typecasting is the process of converting one data type into another to avoid errors when performing operations on different data types.
 """
@@ -40,3 +47,12 @@ x = 100
 x = str(x)
 
 """
+
+#TYPECASTING / chaning a type. ex: integer - string
+#Original
+print('Your son ' + name + ' is failing ' + failed_subjects + ' subjects.')
+print(name + '  will need to redo ' + failed_subjects + '  courses.')
+
+#Updated
+print('Your son ' + name + ' is failing ' + str(failed_subjects) + ' subjects.')
+print(name + '  will need to redo ' + str(failed_subjects) + '  courses.')
